@@ -45,8 +45,8 @@ export default {
 
   // Used for asset download session
   DOWNLOAD_PROVIDER: "GOOGLE",
-  DOWNLOAD_USERNAME: "USERNAME",
-  DOWNLOAD_PASSWORD: "PASSWORD",
+  DOWNLOAD_USERNAME: "therealpokemania",
+  DOWNLOAD_PASSWORD: "dikkeloel12",
 
   // Google maps api key
   GMAPS_KEY: "AIzaSyDF9rkP8lhcddBtvH9gVFzjnNo13WtmJIM",
