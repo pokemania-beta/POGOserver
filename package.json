@@ -12,8 +12,8 @@
     "start": "nodemon --ignore tmp/ --ignore data/ --ignore logs/ --exec npm run babel-node -- ./src/index.js"
   },
   "engines": {
-    "node": ">= 6.x",
-    "npm": ">= 3.x"
+    "node": "6.x",
+    "npm": "3.x"
   },
   "author": "Felix Maier",
   "license": "MIT",
